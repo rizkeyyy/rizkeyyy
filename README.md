@@ -1,4 +1,4 @@
-<img src="github.gif" width="1200" height="600">
+<img src="github.gif" width="1200">
 
 ## Hi there 👋
 
