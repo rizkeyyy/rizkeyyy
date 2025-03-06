@@ -1,5 +1,5 @@
 <img src="github.gif" width="1200" height="600">
-Hi there 👋
+## Hi there 👋
 
 
 👋 Hi! I'm Rizki Ramadhan Lestariono, an aspiring Data Analyst from Jakarta, Indonesia, currently studying at Hacktiv8 Data Science Bootcamp. 
