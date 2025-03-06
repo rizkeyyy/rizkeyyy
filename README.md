@@ -18,7 +18,7 @@
 📧 You can reach me at rizkiramarama@gmail.com or check out my work at my GitHub and Portfolio.
 
 😄 Besides data, I enjoy building projects, learning new technologies, and applying my combined skills in UI/UX design and data analysis to create impactful solutions!
-<img src="github2.gif" width="1000" height="5">
+<img src="github2.gif" width="1000" height="0">
 <br>
 <br>
 <img src="github.gif" width="900">
