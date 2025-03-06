@@ -21,7 +21,7 @@
 <img src="github2.gif" width="1200" height="1">
 <br>
 <br>
-<img src="github.gif" width="1200">
+<img src="github.gif" width="1200" height="600">
 <!--
 **rizkeyyy/rizkeyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
