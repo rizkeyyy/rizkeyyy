@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="github.gif" width="500">
+
 <!--
 **rizkeyyy/rizkeyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
