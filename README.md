@@ -1,3 +1,4 @@
+<img src="github.gif" width="1200" height="600">
 ## Hi there 👋
 
 
@@ -19,15 +20,15 @@
 
 😄 Besides data, I enjoy building projects, learning new technologies, and applying my combined skills in UI/UX design and data analysis to create impactful solutions!
 <img src="github2.gif" width="1200" height="1">
-<br>
-<br>
-<img src="github.gif" width="1200" height="600">
-
+<hr>
+<br><br>
 # <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40"/> Sponsor me 
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<hr>
 <!--
 **rizkeyyy/rizkeyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
