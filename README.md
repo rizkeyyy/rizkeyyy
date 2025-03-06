@@ -19,6 +19,8 @@
 
 😄 Besides data, I enjoy building projects, learning new technologies, and applying my combined skills in UI/UX design and data analysis to create impactful solutions!
 <img src="github2.gif" width="1000" height="5">
+<br>
+<br>
 <img src="github.gif" width="900">
 <!--
 **rizkeyyy/rizkeyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
